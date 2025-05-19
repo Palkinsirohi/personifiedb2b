@@ -257,7 +257,7 @@ const Home = () => {
   <span
     className="inline-block bg-[#1E2E2B] text-[#F7D270] px-6 py-2 rounded-md text-lg xl:text-xl font-bold tracking-wide border border-[#3ABF6E]"
   >
-    Digital Marketing Agency
+    PersonifiedB2B Marketing Agency
   </span>
 
            <motion.h1
